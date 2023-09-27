@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Jamison.
+
+🌱 I'm currently learning about how to build data products using Python. 
+📫 Reach me at jamison.proctor@gmail.com
+
+
+
+
 
 <!--
 **JamisonProctor/JamisonProctor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
